@@ -1,5 +1,7 @@
 # Website Template 網站模板 12
 
+**尚未RWD優化**
+
 ***
 
 - 預覽: [Github.io](https://pardnchiu.github.io/website-template-12/)
@@ -15,9 +17,9 @@
 
 ***
 
-| index |
+| 預覽 |
 |---|
-| ![index](./image/index.jpg) |
+| ![Website Template 網站模板 12 預覽](./image/index.jpg) |
 
 ***
 
